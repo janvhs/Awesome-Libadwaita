@@ -80,6 +80,7 @@ Official, GNOME World and GNOME Circle libraries are marked with an 👣 emoji
 ### Swift
 
 - [SwiftGtk](https://github.com/rhx/SwiftGtk) - GTK3 and GTK4 bindings
+- [Libadwaita](https://github.com/AparokshaUI/Libadwaita) - Swift abstraction for Libadwaita
 
 ## Blogs
 
