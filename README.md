@@ -21,8 +21,10 @@ I hope to provide a collection of links, so others do not have to search as much
     - [C#](#c-1)
     - [Go](#go)
     - [Haskel](#haskel)
+    - [Julia](#julia)
     - [Kotlin](#kotlin)
     - [Nim](#nim)
+    - [OCaml and ReasonML](#ocaml-and-reasonml)
     - [Rust](#rust)
     - [Swift](#swift)
   - [Blogs](#blogs)
@@ -57,6 +59,12 @@ Official, GNOME World and GNOME Circle libraries are marked with an 👣 emoji
 
 - [haskell-gi](https://github.com/haskell-gi/haskell-gi) - Bindings for GTK4, Libadwaita and more GObject libraries
 
+### Julia
+
+- [GtkObservables.jl](https://github.com/JuliaGizmos/GtkObservables.jl) - Imperative, reactive GTK4 development
+- [Gtk4.jl](https://github.com/JuliaGtk/Gtk4.jl) - GTK4 bindings
+- [Gtk3.jl](https://github.com/JuliaGraphics/Gtk.jl) - GTK3 bindings
+
 ### Kotlin
 
 - [gtk-kn](https://gitlab.com/gtk-kn/gtk-kn) - Bindings for GTK4, Libadwaita and more GObject libraries
@@ -64,6 +72,12 @@ Official, GNOME World and GNOME Circle libraries are marked with an 👣 emoji
 ### Nim
 
 - [owlkettle](https://github.com/can-lehmann/owlkettle) - A declarative UI framework for GTK4 and Libadwaita
+
+### OCaml and ReasonML
+
+- [LablGTK](https://github.com/garrigue/lablgtk) - GTK2 and GTK3 bindings used by CoqIDE
+- [lwt_glib](https://github.com/ocsigen/lwt_glib) - GLib event loop integration for Lwt
+- [gobject-introspection](https://github.com/cedlemo/OCaml-GObject-Introspection) - Bindings to GObject introspection
 
 ### Rust
 
@@ -76,6 +90,8 @@ Official, GNOME World and GNOME Circle libraries are marked with an 👣 emoji
 - [libmanette 👣](https://gnome.pages.gitlab.gnome.org/libmanette/) - GObject game controller library
 - [RetroGTK 👣](https://gnome.pages.gitlab.gnome.org/retro-gtk/) - GTK Libretro frontend framework
 - [Relm4](https://github.com/Relm4/Relm4) - GUI library inspired by Elm with GTK4 and libadwaita
+- [vgtk](https://github.com/bodil/vgtk) - Yew, React like declarative UI framework for GTK4
+- [gflux](https://github.com/bvinc/gflux) - tiny and experimental reactive component system library for GTK
 
 ### Swift
 
