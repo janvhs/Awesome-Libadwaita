@@ -30,6 +30,9 @@ I hope to provide a collection of links, so others do not have to search as much
 
 ## Libraries And Frameworks
 
+> [!NOTE]
+> Don't hesitate to add your favourites
+
 Official, GNOME World and GNOME Circle libraries are marked with an 👣 emoji
 
 ### C
@@ -76,14 +79,19 @@ Official, GNOME World and GNOME Circle libraries are marked with an 👣 emoji
 
 ### Swift
 
-[SwiftGtk](https://github.com/rhx/SwiftGtk) - GTK3 and GTK4 bindings
+- [SwiftGtk](https://github.com/rhx/SwiftGtk) - GTK3 and GTK4 bindings
 
 ## Blogs
 
-> [!NOTE]  
-> Nothing here, yet, but don't hesitate to add your favourites
+> [!NOTE]
+> Don't hesitate to add your favourites
+
+- [**All GNOME blogs**](https://blogs.gnome.org/) - Blogs by "Gnomies" about development, design and community
+- [Space and Meaning](https://blogs.gnome.org/tbernard/) - Tobias Bernard's GNOME Blog about Local-First development, GNOME Berlin, general GNOME development
+- [Form and Function](https://blogs.gnome.org/aday/) - Allan Day's GNOME Blog about UI and UX design and community
+
 
 ## Tutorials
 
-> [!NOTE]  
+> [!NOTE]
 > Nothing here, yet, but don't hesitate to add your favourites
